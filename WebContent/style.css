@@ -1,0 +1,50 @@
+body{
+	
+	text-align: center;
+	background:#001f3f;
+}
+
+div button{
+	margin-left:25ps;
+}
+
+h1{
+	color:white;
+	text-align:center; 	
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-family: 'Lora', serif;
+	
+	
+}
+
+.new_item {
+	font-weight: bold;
+	text-decoration:underline;
+}
+
+form input{
+	text-align:center;
+}
+
+p{
+	color:white;	
+	text-align:center;
+	font-family: 'Lora', serif;
+}
+
+form{
+	display:inline-block;
+}
+
+button{
+	margin-top:25px;
+}
+
+p button{
+	marigin-left:25px;
+}
+
+.hover:hover{
+	color:#39CCCC
+}
